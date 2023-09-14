@@ -1,0 +1,9 @@
+{
+	"name": "test_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "sivakumar.sathasivam+b1@zohotest.com",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
